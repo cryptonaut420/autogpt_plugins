@@ -1,0 +1,6 @@
+discord
+os
+requests
+time
+openai
+tiktoken
