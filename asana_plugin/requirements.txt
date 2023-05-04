@@ -1,0 +1,4 @@
+abstract-singleton
+auto_gpt_plugin_template
+asana
+os
